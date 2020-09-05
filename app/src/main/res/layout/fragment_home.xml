@@ -91,14 +91,6 @@
                             android:text="Produk Popular"
                             android:textColor="@android:color/black" />
 
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_centerVertical="true"
-                            android:fontFamily="@font/google_sans_regular"
-                            android:text="Lihat semua" />
-
                     </RelativeLayout>
 
                     <androidx.recyclerview.widget.RecyclerView
@@ -139,13 +131,6 @@
                             android:text="Best Price"
                             android:textColor="@android:color/black" />
 
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_alignParentEnd="true"
-                            android:layout_centerVertical="true"
-                            android:fontFamily="@font/google_sans_regular"
-                            android:text="Lihat semua" />
 
                     </RelativeLayout>
 
